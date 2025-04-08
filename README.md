@@ -21,7 +21,7 @@ Aplikasi web sederhana untuk mendeteksi wajah pada gambar yang diunggah mengguna
 
 ## 📸 Tampilan Aplikasi
 
-![contoh hasil deteksi](static/detected_1744080242_profile-ahmad.jpg)
+<img src="static/detected_1744080242_profile-ahmad.jpg" alt="Contoh Hasil Deteksi" width="500"/>
 
 ---
 
