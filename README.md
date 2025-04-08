@@ -69,3 +69,7 @@ Akses aplikasi di `http://127.0.0.1:5000/`
 │── haarcascade_frontalface_default.xml       # model deteksi
 │── README.md               # Dokumentasi
 ```
+
+## Kontak
+
+Jika ada pertanyaan atau saran, hubungi : [ahmadharun.jambi@gmail.com](mailto:ahmadharun.jambi@gmail.com)
